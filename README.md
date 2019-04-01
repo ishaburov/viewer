@@ -1,4 +1,4 @@
-
+https://raw.githubusercontent.com/ishaburov/viewer/master/README.md
 Параметры ::: columns 
    Название колонки из таблицы  --- должно быть точь в точь как в бд
        Параметры одной колонки ::: 
