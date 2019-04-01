@@ -1,0 +1,9 @@
+
+.table-container{margin: 0 auto;margin-bottom: 100px;max-width: 1600px;}
+.table-container .dt-table  {overflow-x: auto;}
+.grid-manager thead{    background: rgba(3, 0, 181, 0.0784313725490196);}
+.grid-manager .even {    background: #f0f0f0;}
+.grid__filter-container {display: flex;margin-bottom: 10px;flex-wrap: wrap;}
+.grid__filter-container .grid__select-filter{max-width: 200px;margin-right:20px;}
+.grid-manager [data-column="edit"] {width: 100px!important;max-width: 100px;}
+.grid-manager img {max-width: 150px;max-height: 150px;}
